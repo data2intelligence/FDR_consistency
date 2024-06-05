@@ -1,0 +1,8 @@
+*~
+*.pyc
+.cproject
+.project
+.pydevproject
+.ipynb_checkpoints
+.settings
+Release
