@@ -6,3 +6,5 @@
 .ipynb_checkpoints
 .settings
 Release
+git_recover
+git_update
